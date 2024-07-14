@@ -1,0 +1,23 @@
+{
+  "name": "react-native-get-deviceinfo",
+  "version": "1.0.0",
+  "description": "This package fetches the user's device information such as device address, OS version, AAID, etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwol-stha/react-native-get-deviceinfo.git"
+  },
+  "author": "Prajwol Shrestha",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": "18.2.0",
+    "react-native": "0.74.3"
+  },
+  "bugs": {
+    "url": "https://github.com/prajwol-stha/react-native-get-deviceinfo/issues"
+  },
+  "homepage": "https://github.com/prajwol-stha/react-native-get-deviceinfo#readme"
+}
